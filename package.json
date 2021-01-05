@@ -1,5 +1,5 @@
 {
-  "name": "@u3u/vue-hooks",
+  "name": "@dmgolsh/vue-hooks",
   "description": "⚡️ Awesome Vue Hooks",
   "version": "2.0.1",
   "publishConfig": {
@@ -54,9 +54,6 @@
   "engines": {
     "node": ">=10.16.0"
   },
-  "dependencies": {
-    "dayjs": "^1.8.15"
-  },
   "devDependencies": {
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
@@ -74,7 +71,7 @@
     "@types/storybook__vue": "^5.0.2",
     "@typescript-eslint/parser": "^2.0.0",
     "@vue/babel-preset-jsx": "^1.1.0",
-    "@vue/composition-api": "^0.2.0",
+    "@vue/composition-api": "^1.0.0-beta.22",
     "@vue/test-utils": "^1.0.0-beta.29",
     "all-contributors-cli": "^6.8.1",
     "babel-loader": "^8.0.6",

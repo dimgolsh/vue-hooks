@@ -53,7 +53,6 @@ export default createComponent({
 
 ## Hooks
 
-- [`useDate`](https://vue-hooks.netlify.com/?path=/story/usedate--docs) &mdash; Using [`dayjs`](https://github.com/iamkun/dayjs) to process date.
 - [`useWindowSize`](https://vue-hooks.netlify.com/?path=/story/usewindowsize--docs) &mdash; Tracks `window` dimensions.
 - [`useCounter`](https://vue-hooks.netlify.com/?path=/story/usecounter--docs) &mdash; Tracks state of a number.
 - [`usePrevious`](https://vue-hooks.netlify.com/?path=/story/useprevious--docs) &mdash; Returns the previous state or props.
